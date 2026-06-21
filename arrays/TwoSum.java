@@ -1,4 +1,3 @@
-package com.rohith.dsa.arrays;
 
 import java.util.Arrays;
 import java.util.HashMap;
